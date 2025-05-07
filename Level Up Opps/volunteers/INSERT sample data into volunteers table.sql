@@ -1,0 +1,22 @@
+INSERT INTO volunteers (volunteer_first_name, volunteer_last_name, volunteer_email, volunteer_availability)
+VALUES
+('John', 'Doe', 'john.doe@example.com', 'First two weeks of each month'),
+('Jane', 'Smith', 'jane.smith@example.com', 'Second two weeks of each month'),
+('Emily', 'Johnson', 'emily.johnson@example.com', 'First two weeks of each month'),
+('Michael', 'Brown', 'michael.brown@example.com', 'Second two weeks of each month'),
+('Sarah', 'Davis', 'sarah.davis@example.com', 'First two weeks of each month'),
+('David', 'Wilson', 'david.wilson@example.com', 'Second two weeks of each month'),
+('Laura', 'Taylor', 'laura.taylor@example.com', 'First two weeks of each month'),
+('James', 'Anderson', 'james.anderson@example.com', 'Second two weeks of each month'),
+('Sophia', 'Thomas', 'sophia.thomas@example.com', 'First two weeks of each month'),
+('Daniel', 'Jackson', 'daniel.jackson@example.com', 'Second two weeks of each month'),
+('Olivia', 'White', 'olivia.white@example.com', 'First two weeks of each month'),
+('Matthew', 'Harris', 'matthew.harris@example.com', 'Second two weeks of each month'),
+('Isabella', 'Martin', 'isabella.martin@example.com', 'First two weeks of each month'),
+('Christopher', 'Thompson', 'christopher.thompson@example.com', 'Second two weeks of each month'),
+('Ava', 'Garcia', 'ava.garcia@example.com', 'First two weeks of each month'),
+('Joshua', 'Martinez', 'joshua.martinez@example.com', 'Second two weeks of each month'),
+('Mia', 'Robinson', 'mia.robinson@example.com', 'First two weeks of each month'),
+('Andrew', 'Clark', 'andrew.clark@example.com', 'Second two weeks of each month'),
+('Charlotte', 'Rodriguez', 'charlotte.rodriguez@example.com', 'First two weeks of each month'),
+('Ethan', 'Lewis', 'ethan.lewis@example.com', 'Second two weeks of each month');

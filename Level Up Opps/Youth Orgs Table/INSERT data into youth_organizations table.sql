@@ -1,0 +1,22 @@
+INSERT INTO youth_organizations (youth_org_name, practice_type, practice_location, current_youth_engaged)
+VALUES
+('Youth Empowerment', 'Sports', 'New York', 50),
+('Future Leaders', 'Education', 'Los Angeles', 30),
+('Tech Innovators', 'Technology', 'San Francisco', 25),
+('Green Warriors', 'Environment', 'Seattle', 40),
+('Artistic Minds', 'Arts', 'Chicago', 35),
+('Health Heroes', 'Health', 'Houston', 20),
+('Community Builders', 'Community Service', 'Miami', 45),
+('STEM Stars', 'STEM', 'Boston', 28),
+('Cultural Connect', 'Culture', 'San Diego', 22),
+('Youth Voices', 'Advocacy', 'Washington D.C.', 33),
+('Creative Coders', 'Coding', 'Austin', 27),
+('Eco Guardians', 'Sustainability', 'Portland', 18),
+('Young Entrepreneurs', 'Business', 'Denver', 32),
+('Sports Champions', 'Sports', 'Atlanta', 29),
+('Future Scientists', 'Science', 'Philadelphia', 24),
+('Music Makers', 'Music', 'Nashville', 31),
+('Youth Innovators', 'Innovation', 'Silicon Valley', 26),
+('Literary Leaders', 'Literature', 'New Orleans', 21),
+('Social Changemakers', 'Social Work', 'Detroit', 34),
+('Youth Explorers', 'Exploration', 'Phoenix', 23);

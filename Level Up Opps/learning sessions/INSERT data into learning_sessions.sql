@@ -1,0 +1,22 @@
+INSERT INTO learning_sessions (session_name, session_location, sets_available, session_length, frequency, scheduling_timeframe)
+VALUES
+('Introduction to Algorithms', 'Tech Hub', 10, 120, 'Weekly', 'First 2 weeks of the month'),
+('Sorting and Searching Algorithms', 'Community Center', 15, 90, 'Bi-weekly', 'Second 2 weeks of the month'),
+('Data Structures and Algorithms', 'School', 8, 60, 'Weekly', 'First 2 weeks of the month'),
+('Algorithm Design and Analysis', 'Library', 12, 45, 'Weekly', 'Second 2 weeks of the month'),
+('Graph Algorithms', 'Tech Hub', 10, 120, 'Bi-weekly', 'First 2 weeks of the month'),
+('Dynamic Programming', 'Community Center', 20, 60, 'Weekly', 'Second 2 weeks of the month'),
+('Algorithmic Problem Solving', 'School', 10, 90, 'Weekly', 'First 2 weeks of the month'),
+('Advanced Algorithms', 'Library', 15, 120, 'Bi-weekly', 'Second 2 weeks of the month'),
+('Algorithmic Complexity', 'Community Center', 8, 60, 'Weekly', 'First 2 weeks of the month'),
+('Algorithms in Machine Learning', 'School', 12, 90, 'Bi-weekly', 'Second 2 weeks of the month'),
+('Algorithms for Big Data', 'Gym', 20, 60, 'Weekly', 'First 2 weeks of the month'),
+('Algorithms in Cryptography', 'Library', 10, 45, 'Weekly', 'Second 2 weeks of the month'),
+('Algorithms in Bioinformatics', 'Community Center', 15, 90, 'Bi-weekly', 'First 2 weeks of the month'),
+('Algorithms in Robotics', 'School', 8, 60, 'Weekly', 'Second 2 weeks of the month'),
+('Algorithms in Finance', 'Library', 12, 120, 'Bi-weekly', 'First 2 weeks of the month'),
+('Algorithms in Networking', 'Community Center', 20, 90, 'Weekly', 'Second 2 weeks of the month'),
+('Algorithms in Gaming', 'School', 10, 60, 'Weekly', 'First 2 weeks of the month'),
+('Algorithms in Artificial Intelligence', 'Gym', 15, 120, 'Bi-weekly', 'Second 2 weeks of the month'),
+('Algorithms in Natural Language Processing', 'Library', 8, 60, 'Weekly', 'First 2 weeks of the month'),
+('Algorithms in Cybersecurity', 'Community Center', 12, 90, 'Bi-weekly', 'Second 2 weeks of the month');

@@ -1,0 +1,22 @@
+INSERT INTO stem_organizations (org_name, org_location, org_phone, org_email)
+VALUES
+('STEM Innovators', 'New York, USA', '1234567890', 'info@steminnovators.com'),
+('Tech Future', 'San Francisco, USA', '2345678901', 'contact@techfuture.org'),
+('Science Hub', 'London, UK', '3456789012', 'hello@sciencehub.co.uk'),
+('Engineering World', 'Berlin, Germany', '4567890123', 'support@engineeringworld.de'),
+('Math Masters', 'Tokyo, Japan', '5678901234', 'info@mathmasters.jp'),
+('BioTech Leaders', 'Boston, USA', '6789012345', 'contact@biotechleaders.com'),
+('Robotics Club', 'Seoul, South Korea', '7890123456', 'hello@roboticsclub.kr'),
+('AI Pioneers', 'Toronto, Canada', '8901234567', 'support@aipioneers.ca'),
+('Physics Society', 'Paris, France', '9012345678', 'info@physicssociety.fr'),
+('Chemistry Network', 'Sydney, Australia', '0123456789', 'contact@chemistrynetwork.au'),
+('Astronomy Group', 'Cape Town, South Africa', '1234567890', 'hello@astronomygroup.za'),
+('Environmental Org', 'Rio de Janeiro, Brazil', '2345678901', 'support@environmentalorg.br'),
+('Medical Research', 'Zurich, Switzerland', '3456789012', 'info@medicalresearch.ch'),
+('Nanotech Association', 'Singapore', '4567890123', 'contact@nanotechassociation.sg'),
+('Genetics Lab', 'Mumbai, India', '5678901234', 'hello@geneticslab.in'),
+('Cybersecurity Team', 'Tel Aviv, Israel', '6789012345', 'support@cybersecurityteam.il'),
+('Renewable Energy', 'Stockholm, Sweden', '7890123456', 'info@renewableenergy.se'),
+('Space Exploration', 'Moscow, Russia', '8901234567', 'contact@spaceexploration.ru'),
+('Marine Biology', 'Honolulu, USA', '9012345678', 'hello@marinebiology.us'),
+('Quantum Computing', 'Beijing, China', '0123456789', 'support@quantumcomputing.cn');

@@ -1,0 +1,2 @@
+SELECT AVG(DISTINCT youth_org_id) AS distinct_average_youth_org_id
+FROM youth_organizations;

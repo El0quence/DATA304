@@ -1,0 +1,2 @@
+SELECT SUM(DISTINCT youth_org_id) AS distinct_total_youth_org_id
+FROM youth_organizations;

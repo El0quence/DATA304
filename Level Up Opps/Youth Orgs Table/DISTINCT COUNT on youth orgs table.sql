@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT youth_org_id) AS distinct_youth_org_count
+FROM youth_organizations;
